@@ -23,3 +23,7 @@
 - Significantly worse than the 3 Input Char model
 - No Rhymes
 - Bad syllable counting
+### Transformer
+- https://arxiv.org/pdf/1706.03762.pdf
+- (generation) https://huggingface.co/blog/how-to-generate
+- explanation pos encoding https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
